@@ -18,6 +18,10 @@ NLP + LLM 스터디 (RNN,LSTM,Transformer,BERT,T5,GPT,Langchain,RAG,REACT,Retrie
 
 
 
+
+
+
+
 진행방식(필수는 *)
 [과제*] 관련 유튜브 영상 시청
 [과제*] 논문 읽고 정리해오기(github 포폴로 사용 예정)
