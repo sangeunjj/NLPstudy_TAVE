@@ -31,7 +31,7 @@ Our study approach includes:
 | [**hongsuin**](https://github.com/hongsuin) | Hongsuin |
 | [**sangeunjj**](https://github.com/sangeunjj) | SangEun Ji |
 | [**G-Hong**](https://github.com/G-Hong) | Gina Hong (Team Leader) |
-| [**hjjummy**](https://github.com/hjjummy) | HyunJung Jung |
+| [**hjjummy**](https://github.com/hjjummy) | HyunJung Jung (Team Leader) |
 
 <p align="center">Team: 강북치기박치기</p>
 
